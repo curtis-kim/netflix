@@ -14,4 +14,4 @@ __Writer__<br />Jon Connolly<br />David Loucka
 
 __Starring__<br />Michael Keaton<br />Christopher Lloyd<br />Peter Boyle<br />Stephen Furst<br />Dennis Boutsikaris<br />James Remar
 
-__Summary__<br />A group of psychos
+__Summary__<br />A shrink takes some of his crazies out for some fresh air to a baseball game and ends up getting separated from the group and they are left wandering around the city streets alone.
