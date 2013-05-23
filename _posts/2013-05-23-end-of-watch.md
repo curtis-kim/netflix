@@ -1,7 +1,7 @@
 ---
 layout: movie
 title: "End of Watch"
-source: http://youtu.be/mf2K9GzgiF0
+source: http://www.youtube.com/embed/mf2K9GzgiF0
 netflix_link: http://movies.netflix.com/WiMovie/End_of_Watch/70235384
 imdb_link: http://www.imdb.com/title/tt1855199
 ---
