@@ -6,7 +6,7 @@ netflix_link: http://movies.netflix.com/WiMovie/The_Devil_s_Double/70139562
 imdb_link: http://www.imdb.com/title/tt1270262
 ---
 
-__Rated__<br /><span class="rated ts">NR</span>
+__Rated__<br /><span class="rated ts">R</span>
 
 __Director__<br />Lee Tamahori
 
