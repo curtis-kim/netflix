@@ -1,5 +1,6 @@
 # auto: true
-url: http://nedflix.net
+url: ""
+baseurl: ""
 # url: http://localhost:4000
 
 # source:      .
