@@ -1,6 +1,6 @@
 # auto: true
 url: ""
-baseurl:/netflix
+baseurl:""
 # url: http://localhost:4000
 
 # source:      .
